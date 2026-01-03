@@ -70,7 +70,7 @@ export function GallerySection() {
             transition={{ delay: 0.2 }}
             className="max-w-2xl mx-auto text-lg text-[#64748B]"
           >
-            Dokumentasi perjalanan dan kegiatan kami sebagai mahasiswa Informatika ITB 2024.
+            Dokumentasi dari perjalanan kisah kebersamaan Mahasiswa Sistem Informasi UNTAN 2025
           </motion.p>
         </div>
 

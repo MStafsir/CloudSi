@@ -40,7 +40,7 @@ export function Footer() {
   const socialLinks = [
     {
       icon: Instagram,
-      href: "https://instagram.com/cloudsi.untan",
+      href: "https://www.instagram.com/cloudsi.25?igsh=dHl4N2sxa2YxZ3Rp",
       label: "Instagram",
     },
     { icon: Github, href: "https://github.com/cloudsi-untan", label: "GitHub" },
@@ -143,7 +143,7 @@ export function Footer() {
               </li>
               <li>
                 <a
-                  href="https://si.mipa.untan.ac.id"
+                  href="https://hmsifmipauntan.com/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-sm text-[#64748B] hover:text-[#0369A1] transition-colors"

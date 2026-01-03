@@ -13,14 +13,14 @@ interface VideoItem {
 const sampleVideos: VideoItem[] = [
   {
     id: "1",
-    title: "Ospek Informatika 2024 - Highlights",
+    title: "Ospek Sistem Informasi Angkatan 2025 - Highlights",
     thumbnailUrl:
       "https://images.unsplash.com/photo-1552664730-d307ca884978?w=600&h=400&fit=crop",
     videoUrl: "https://www.youtube.com/embed/dQw4w9WgXcQ",
   },
   {
     id: "2",
-    title: "Hackathon Journey 2024",
+    title: "Tubes Sistem Informasi Angkatan 2025",
     thumbnailUrl:
       "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=600&h=400&fit=crop",
     videoUrl: "https://www.youtube.com/embed/dQw4w9WgXcQ",
